@@ -12,7 +12,7 @@ export default function Hero() {
 
         {/* Main Heading */}
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 text-center">
-          Beyond the White Coat: The Untold Stories of Doctors
+        Beyond the White Coat Doctors' Secret Struggles
         </h1>
 
         {/* Subheading */}
