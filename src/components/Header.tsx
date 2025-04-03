@@ -14,16 +14,16 @@ export default function Header({ setIsSidebarOpen, isSidebarOpen }: HeaderProps)
         <div className="flex items-center space-x-8">
           <button
             className="p-2 -ml-2 text-gray-600 hover:text-gray-900"
-            onClick={() => setIsSidebarOpen(!isSidebarOpen)}  
+            onClick={() => setIsSidebarOpen(!isSidebarOpen)}
           >
             {isSidebarOpen ? <X size={24} /> : <Menu size={24} />}
           </button>
-          <h1 className="text-xl font-semibold text-blue-600">Beyond the White Coat</h1>
-          <div className="hidden md:block text-sm text-gray-500">Doctors' Secret Struggles</div>
+          <h1 className="text-xl font-semibold text-blue-600">BLOG</h1>
+          {/* <div className="hidden md:block text-sm text-gray-500">Doctors' Secret Struggles</div> */}
         </div>
 
         <div className="flex items-center space-x-6">
-    
+      F
 
 <nav className="hidden md:flex space-x-6">
   <Link to="/" className="text-gray-600 hover:text-gray-900">Home</Link>
