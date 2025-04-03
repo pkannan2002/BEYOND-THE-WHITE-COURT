@@ -2,7 +2,7 @@ export const doctors = [
   {
     id: '1',
     name: 'Dr. Kannan Balaraman',
-    specialty: 'Maxillofacial Surgery',
+    specialty: 'Maxillofacial ',
     imageUrl: '/images/WhatsApp Image 2025-03-24 at 13.11.41_f191d146 .jpg',
     quote: "A successful doctor is one who has saved lives and made an impact.",
     story: `We often see doctors as professionals in white coats, diagnosing illnesses, prescribing medicines, and saving lives. But how often do we stop to think about the person behind that coat? The sacrifices, the emotional burden, and the unspoken struggles they endure every single day?
