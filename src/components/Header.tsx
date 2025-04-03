@@ -23,7 +23,7 @@ export default function Header({ setIsSidebarOpen, isSidebarOpen }: HeaderProps)
         </div>
 
         <div className="flex items-center space-x-6">
-      F
+      
 
 <nav className="hidden md:flex space-x-6">
   <Link to="/" className="text-gray-600 hover:text-gray-900">Home</Link>
